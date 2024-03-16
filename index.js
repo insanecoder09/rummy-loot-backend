@@ -20,7 +20,7 @@ const keyDetails = {
     },
     "yet-kgt-eit": {
         name: "Lali",
-        isActive: false,
+        isActive: true ,
     },
 }
 
